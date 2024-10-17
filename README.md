@@ -2,13 +2,14 @@
 MSc Medical Physics, Medical Imaging Researcher
 ======================================================
 
+My name is Iman Azinkhah, and I am passionate about pursuing a Ph.D. position. I hold a Master of Science in Medical Physics from Iran University of Medical Sciences. My primary research interest lies in advancing medical imaging technologies, such as Computed Tomography (CT) and Magnetic Resonance Imaging (MRI).
 
-My research interests are medical image processing, especially segmentation techniques and Quantitative imaging in magnetic resonance imaging. Also, I am very passionate about programming and developing software in the field of medical imaging. I am familiar with advanced imaging in MRI like DTI analysis, Brain Perfusion, and Cardiovascular (CMR). 
+My master’s research, titled Calculation of Scatter Beam Profiles and Scatter Correction in a 128-Slice Computed Tomography Scanner Using Monte Carlo Simulation, resulted in several publications. I find programming for simulating medical X-ray devices exciting and am deeply passionate about it. Additionally, I have presented my research findings at international conferences, such as the European Congress of Radiology.
 
+Given my interest in programming, I have conducted research on medical image processing, specifically tissue classification methods in brain MRI images using FSL, SPM, and DYPI. Research areas like Monte Carlo simulations in medical imaging (using GATE or Geant4), patient dose assessment in medical devices, and quantitative imaging techniques such as perfusion and clinical MRI research have greatly inspired me. I am excited about how well these areas align with my academic interests.
 
-- 🔭 I’m currently working on Medical imaging (Neuro & Cardiovascular Magnetic Resonance).
-- 🌱 I’m currently learning Machine and Deep Learning especially in Medcial Image.
-- 👯 I’m looking to collaborate on medical image processing and AI in medical imaging.
+I possess strong data analysis skills and am proficient in tools like SPSS, ImageJ, 3D Slicer, and PyDicom. I also have experience programming in Python and Visual Basic.Net. I view my Master’s in Medical Physics as the first step toward pursuing my research interests and achieving my lifelong dream of becoming a professor in medical imaging. One of my most important goals is to make a meaningful impact through my research and teaching in this field. This is my dream.
+
 - 💬 See my portfolio at [My Academic Page](https://imanazinkhah.github.io/).
 
 
