@@ -8,7 +8,7 @@ My master’s research, titled Calculation of Scatter Beam Profiles and Scatter 
 
 Given my interest in programming, I have conducted research on medical image processing, specifically tissue classification methods in brain MRI images using FSL, SPM, and DYPI. Research areas like Monte Carlo simulations in medical imaging (using GATE or Geant4), patient dose assessment in medical devices, and quantitative imaging techniques such as perfusion and clinical MRI research have greatly inspired me. I am excited about how well these areas align with my academic interests.
 
-I possess strong data analysis skills and am proficient in tools like SPSS, ImageJ, 3D Slicer, and PyDicom. I also have experience programming in Python and Visual Basic.Net. I view my Master’s in Medical Physics as the first step toward pursuing my research interests and achieving my lifelong dream of becoming a professor in medical imaging. One of my most important goals is to make a meaningful impact through my research and teaching in this field. This is my dream.
+I possess strong data analysis skills and am proficient in tools like SPSS, ImageJ, 3D Slicer, and PyDicom. I also have experience programming in Python, matlab and Visual Basic.Net. I view my Master’s in Medical Physics as the first step toward pursuing my research interests and achieving my lifelong dream of becoming a professor in medical imaging. One of my most important goals is to make a meaningful impact through my research and teaching in this field. This is my dream.
 
 - 💬 See my portfolio at [My Academic Page](https://imanazinkhah.github.io/).
 
