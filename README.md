@@ -51,3 +51,15 @@ I build practical Python tools to automate repetitive tasks, process data, and s
 *Building useful tools. Solving real problems. Learning by doing.*
 
 </div>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imanazinkhah/imanazinkhah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imanazinkhah/imanazinkhah/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/imanazinkhah/imanazinkhah/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
