@@ -25,6 +25,25 @@ I build practical Python tools to automate repetitive tasks, process data, and s
 - **AI Code Reviewer** — Python code analysis with HTML report generation
 - **Interactive Maps** — Interactive maps built with Python and Folium
 
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imanazinkhah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanazinkhah&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" alt="Technologies and tools" />
+
+</div>
+
 ---
 
 <div align="center">
