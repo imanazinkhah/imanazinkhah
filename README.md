@@ -1,21 +1,34 @@
-### Hi there 👋
-MSc Medical Physics, Medical Imaging Researcher
-======================================================
 
-My name is Iman Azinkhah, and I am passionate about pursuing a Ph.D. position. I hold a Master of Science in Medical Physics from Iran University of Medical Sciences. My primary research interest lies in advancing medical imaging technologies, such as Computed Tomography (CT) and Magnetic Resonance Imaging (MRI).
+<div align="center">
 
-My master’s research, titled Calculation of Scatter Beam Profiles and Scatter Correction in a 128-Slice Computed Tomography Scanner Using Monte Carlo Simulation, resulted in several publications. I find programming for simulating medical X-ray devices exciting and am deeply passionate about it. Additionally, I have presented my research findings at international conferences, such as the European Congress of Radiology.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=220&section=header&text=Iman%20Azinkhah&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20%7C%20Automation%20%7C%20AI&descAlignY=58&descSize=18)
 
-Given my interest in programming, I have conducted research on medical image processing, specifically tissue classification methods in brain MRI images using FSL, SPM, and DYPI. Research areas like Monte Carlo simulations in medical imaging (using GATE or Geant4), patient dose assessment in medical devices, and quantitative imaging techniques such as perfusion and clinical MRI research have greatly inspired me. I am excited about how well these areas align with my academic interests.
+<a href="https://github.com/imanazinkhah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Developer;Building+Business+Automation+Tools;Turning+Data+Into+Useful+Insights;Exploring+Practical+AI+Applications" alt="Typing SVG" />
+</a>
 
-I possess strong data analysis skills and am proficient in tools like SPSS, ImageJ, 3D Slicer, and PyDicom. I also have experience programming in Python, matlab and Visual Basic.Net. I view my Master’s in Medical Physics as the first step toward pursuing my research interests and achieving my lifelong dream of becoming a professor in medical imaging. One of my most important goals is to make a meaningful impact through my research and teaching in this field. This is my dream.
+</div>
 
-- 💬 See my portfolio at [My Academic Page](https://imanazinkhah.github.io/).
+---
 
+## Hi, I'm Iman 👋
 
-  ### Badges
+I build practical Python tools to automate repetitive tasks, process data, and solve real-world problems.
 
-<b>My GitHub Stats</b>
+- 🐍 **Python Development:** Practical scripts and applications
+- ⚙️ **Automation:** Streamlining repetitive workflows
+- 📊 **Data Tools:** Data processing and business reporting
+- 🤖 **AI Applications:** Exploring useful AI-powered solutions
 
-<a href="http://www.github.com/imanazinkhah"><img src="https://github-readme-stats.vercel.app/api?username=imanazinkhah&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rekalantar's GitHub stats" /></a>
+## Featured Projects
 
+- **AI Code Reviewer** — Python code analysis with HTML report generation
+- **Interactive Maps** — Interactive maps built with Python and Folium
+
+---
+
+<div align="center">
+
+*Building useful tools. Solving real problems. Learning by doing.*
+
+</div>
